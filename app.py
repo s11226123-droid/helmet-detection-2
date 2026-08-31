@@ -30,7 +30,7 @@ st.sidebar.header("⚙️ 系統參數設定")
 m1_path = st.sidebar.text_input(
     "Stage 1 模型路徑", "models/yolov11s_best.pt"
 )
-m2_path = st.sidebar.text_input("Stage 2 模型路徑", "models/best0823.pt")
+m2_path = st.sidebar.text_input("Stage 2 模型路徑", "models/best0831.pt")
 m3_path = st.sidebar.text_input(
     "Stage 3 模型路徑", "models/bestcla0809.pt"
 )
